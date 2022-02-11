@@ -53,7 +53,8 @@ public class Cross extends JPanel implements ActionListener
     
     }
   
-  public static void main(String[] args)
+//Adding a comment for Git commit practice
+	public static void main(String[] args)
   {
     JFrame window = new JFrame("Red Cross");
     window.setBounds(300, 300, 200, 200);
